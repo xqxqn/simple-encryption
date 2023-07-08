@@ -19,4 +19,4 @@ This project implements a simple encryption algorithm in Python. It takes a stri
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/xqxq_n/simple-encryption.git
+   git clone https://github.com/xqxqn/simple-encryption.git
